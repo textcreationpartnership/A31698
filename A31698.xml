@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Character of a modern Whig, or, An alamode true loyal Protestant</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31698</idno>
+            <idno type="STC">Wing C1981</idno>
+            <idno type="STC">ESTC R9451</idno>
+            <idno type="EEBO-CITATION">13280590</idno>
+            <idno type="OCLC">ocm 13280590</idno>
+            <idno type="VID">98742</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31698)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98742)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 450:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Character of a modern Whig, or, An alamode true loyal Protestant</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Smith ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Whig Party (Great Britain) --  Controversial literature.</term>
+               <term>Political parties --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="character">
+            <pb n="1" facs="tcp:98742:1" rendition="simple:additions"/>
+            <head>THE CHARACTER OF A Modern WHIG, OR An Alamode True LOYAL PROTESTANT.</head>
+            <p>
+               <seg rend="decorInit">H</seg>E is a Certain Inſect bred in the Corruption of the late Rebellion, and is (for the moſt part) a Traytor <hi>Ex traduce.</hi>
+            </p>
+            <p>At his Majeſties happy Reſtauration he lay ſtupified without Senſe or Motion, but began by little and little to crawl with new life in the warmth of the Act of Oblivion, and afterwards wantonly basked himſelf in the Rays of Royal Indulgence and Toleration, till the old Poiſonous Ferment began to work and float afreſh, and furniſhed him with Vigour, and Inſolence ſufficient to hiſs Venom in the Sacred Face of his Great and Gracious Pre<g ref="char:EOLhyphen"/>ſerver. And though he be ſufficiently Conſcious of the black Ingratitude, and repeated Provocations, with which he hath all-along abuſed and affronted the King's God-like Patience and Forbearance, yet the Fool hath had the Impudence to flatter himſelf with <hi>Agag,</hi> and ſay, <hi>Surely the bitterneſs of Death is paſt;</hi> little thinking that he is ſtill reſerved to be hewed in pieces before the Lord.</p>
+            <p>His Aſpect is generally Meagre and Malicious, as repreſenting on the one ſide the Puritanical Fool, on the other the Political Knave. His Profeſſion (I cannot call it Religion) is of the <hi>Geneva</hi>-Stamp; not that his Conſcience, or Prudence ever engaged him in a judicions Inqueſt, or ſober Tryal of this or any other; or that his Wit and Judgment were ever capable Rationally to diſcern and chooſe, (for in Speculations of this kind, Nature and his Education have removed him but one degree from an Idiot) but his Father beget<g ref="char:EOLhyphen"/>ting him in the hot Zeal of this Perſuaſion, and his Dam all that while fixing her teeming Fancy with Adul<g ref="char:EOLhyphen"/>terous luſt on their able Holder-forth, he was moulded a ſtrong <hi>Presbyterian</hi> in the very Womb, and ſo proves a rank Phanatick by the Pure force of Imagination and Extract: Nor hath he himſelf been ſince want<g ref="char:EOLhyphen"/>ing to improve theſe natural Diſpoſitions, and Exalt the Rebellious Genius he derived from his Sire and Dam; for obſerving (or rather being told) that the <hi>Presbyterian</hi> Principles ſtood in the greateſt Oppoſition to the Eſtabliſhed Government, he hath with irreverſible Obſtinacy Eſpouſed the good Old Cauſe, and with the Sacred Solemnity of a Sacramental Vow hath devoted himſelf, Life, and Fortune, to the utter Extirpation of Prelacy, and the Royal Race of the <hi>Stuarts.</hi>
+            </p>
+            <p>To effect all which, and that he may the more ſafely, and indiſcernibly accompliſh his porfidious Deſigns, he lies perdue in the unſuſpected Covert of a <hi>Proteſtant;</hi> and though that word for ought he knows of the riſe and reaſon of it, may be <hi>Hebrew</hi> for a Baboon, yet he aſſumes and affects it upon all occaſions, becauſe he fancies that it denotes, and ſignifies diſtinction and oppoſition; and he loves all things, and terms of Se<g ref="char:EOLhyphen"/>paration and Contradiction at his very heart. But farther obſerving that many wiſe and honeſt men have plainly diſcover'd that this Religion of his, and as he manages it, proves in the conſequence of Affairs no better than an Antimonarchick-Hereſie, therefore the better to ſupply all its defects, and anſwer all objections againſt it, he Palliates its apparent Falſhood and Treachery with the ſpecious Epithets of Truth and Loyalty, and with unparallel'd Impudence he once for all roundly ſtiles himſelf, a true Loyal <hi>Proteſtant.</hi> He hath been hatching Rebellion, and working under-ground the Subverſion of Church and State for theſe many years paſt, but hath beſtir'd himſelf with all imaginable Application ſince the breaking out of the horrid <hi>Popiſh</hi>-Plot; as imagining that he might with more Succeſs and Safety ſpring his own Mines (which he had carried on to the very Foundations of the Government) at a time when we were wholly taken up in detecting the Trains and Treacheries of the <hi>Romiſh</hi> Pioneers: And this hath afore-time in all Ages ſince the Refor<g ref="char:EOLhyphen"/>mation been his Uſage, then more eſpecially to diſturb and divert his Governours with Petitions, Grievances, Toleration, Comprehenſion, and a thouſand Tricks and Artifices, when he hath ſeen their Endeavours and Intentions bent and buſied another way, and engaged in Reſcuing us from the Imminent Dangers of our <hi>Popiſh</hi> Adverſaries.</p>
+            <pb n="2" facs="tcp:98742:2" rendition="simple:additions"/>
+            <p>The Plot, <hi>Entry,</hi> and Arbitrary Government is his dayly Out-cry, the Common place and burden of his Seditious noiſe and clamour, and the Pretences of his impertinent Fears and Jealouſies; whatever his Factious humour diſlikes is <hi>Popiſh,</hi> and where the Caſe will not admit of a poſitive direct Plea, then <hi>Popiſhly</hi> affected doth the buſineſs; and any thing that bridles and reſtrains his Licentious Inſolence, and Seditious Practices is Arbitrary, and Tyrannical. But for all the loud Hu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Cry he makes after the Plot, himſelf hath proved the chiefeſt hinderer of its full and home diſcovery, ſo that 'tis now almoſt quite ſpent and loſt in running down a Channel of almoſt three years diſtance from its firſt Spring and Fountain. He plainly foreſaw that 'twould thwart and prevent his Deſigns, if it had forthwith been Traced to the Fountain head, and there ſtopt and ended preſently (as it might very eaſily have been) when we were at the near diſtance of 78, and 79; he rather Choſe to Wire-draw it at length with Tricks and Fineſſes, as having many Stages of devices that were to run parallel with it, and many Plots and Stratagems of his own that he cou'd never Accompliſh with<g ref="char:EOLhyphen"/>out this Pretence and Exclamation, that, there hath been, and is ſtill a horrid <hi>Popiſh</hi> Plot, <hi>&amp;c.</hi> That, is Still, doth his buſineſs.</p>
+            <p>And thus he hath kept the Plot at Bay for theſe three years to amuſe and divert us, whilſt all the while he is in the hot and eager Purſuit of other Game.</p>
+            <p>He endeavours to Poiſon the people, and Scare the Nation into Rebellion by Libelling the beſt King and Government in the world; inſinuating malicious and groundleſs Suggeſtions of imminent <hi>Popery</hi> and Tyran<g ref="char:EOLhyphen"/>ny, by horrid Stories of <hi>Smithfield</hi> Flames, <hi>Iriſh</hi> Maſſacres, <hi>&amp;c.</hi> by the Villanous Prints of <hi>Carr, Curtiſs,</hi> and a whole Pack of ſcurrilous Scoundrels, and by a Thouſand Artifices dayly hammer'd out on the Forge of <hi>Faction</hi> by Republican Operators <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their reſpective Cabals: In a word he hath done all he can to reduce the State of theſe Kingdoms to preſent Blood-ſhed and Deſolation, hoping thereby to make his own Markets, purchaſe his Revenges, and glut his Malice, or at leaſt hide his abominable Head (due long ſince to Publick Juſtice) in the general Confuſion. Again, our true Loyal <hi>Proteſtant</hi> to ſhew how highly he Values his Sovereigns Content and Quiet, is frequently tormenting him with his impertinent Petitions, and that about things as much beyond the reach and judgment, as they are beſide the duty and proper buſineſs of the Sawcy Petitioner; eſpecially ſince he knows how that his Majeſty hath Proclaimed not an Averſion only, but a general Prohibition to ſuch Dangerous and Seditious Muſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r-Rolls, and Factious Pragmatical intermedlings: But his greateſt Artifice and the Court Bugbear as he thinks, is the perpetually making the King's Ears ring with Clamours about the Succeſſion; ſo that inſtead of a Joyful and Dutiful Exclamation of <hi>Vive le Roy,</hi> he is dayly Saluting him with a <hi>Memento mori:</hi> This was ſo harſh and grating to Queen <hi>Elizabeth,</hi> that ſhe returned a ſharp <hi>Reprimende</hi> to ſuch as motion'd it, telling them beſides, That it was to dig her Grave be<g ref="char:EOLhyphen"/>fore ſhe was Dead. Our Modern <hi>Whig,</hi> I ſay, would lay theſe Kingdoms in Blood and preſent Peſolation, the better forſooth to prevent the imaginary Evils of a (pretended) <hi>Popiſh</hi> Succeſſor, and ſuch <hi>Chimaeras</hi> as his factious Fancy only hath Conceived in the Womb of Futurity and bare Poſlibility. His tender Conſcience can eaſily diſpenſe with Diſinheriting a Royal Prince of his undoubted Right to Three Crowns, upon a ſup<g ref="char:EOLhyphen"/>poſition only of being of an Opinion different from himſelf; and yet nothing can ſerve his own turn, but Repealing Acts of Parliament to indemnifie his Sciſmatical Separation, and that he may neglect the Service of God, and break the Laws of the Land with abſolute Impunity: This he prettily Stiles, Uniting his Ma<g ref="char:EOLhyphen"/>jeſties <hi>Proteſtant</hi> Subjects, though in effect and intent 'tis no better than admitting the <hi>Trojan</hi> Horſe (a Magazine of miſchiefs) within the Walls, and we ſhould quickly find that a <hi>Ruit alto a Calmine</hi> would be the Fatal Conſequence in our Church. He knows well enough that he hath Blaſphemed his <hi>R. H.</hi> beyond all hopes of Pardon, that therefore his <hi>All</hi> is at Stake, there is now no Retreat, his Caſe is deſperate, and he muſt now puſh it home in his own Defence.</p>
+            <p>This is our True <hi>Proteſtants</hi> Loyal Behaviour towards the Children of that Royal Father who was ſo lately Mur<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ered by his Faction; whereas if he had but the leaſt Grain of his ſo much boaſted Loyalty, or indeed of Chriſtianity, he would ſtrive to Expiate that loud-Crying Guilt, and ſhew his deep abhorrence of that Fact, by paying ſtrict Allegiance to the preſent Poſſeſſor of the Throne, though he were the worſt of Tyrants, and by not oppoſing his <hi>R. H</hi> the rightful Succeſſour, though he were a profeſt <hi>Mahometan.</hi>
+            </p>
+            <p>He hath all along Danced to the <hi>Jeſuits</hi> Pipe, and Steer'd by his Compaſs we know, but of late he hath openly profeſt, and avowed ſuch Doctrines as theſe: That 'tis lawful to take any Oaths whatſoever with a Mental <hi>Salvo</hi> for the ſake of the good Old Cauſe. That no Faith is to be kept with the <hi>Tory-Party.</hi> That the ſelf<g ref="char:EOLhyphen"/>ſame Evidence in one Caſe is Truth and very Oracle, in another Perjury, and Subornation; and, that Truth, and Juſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce may <hi>Salvâ Conſcientiâ</hi> be nipt in the bud by <hi>Ignoramus,</hi> when <hi>Billa Vera</hi> wou'd be an ill Preſident, prove prejudicial to the Cauſe, and of bad Conſequence when his nearer and dearer Friends turn comes to be Concerned, <hi>&amp;c.</hi>
+            </p>
+            <p>To Conclude, a Modern <hi>Whig</hi> is the very. Spawn of <hi>Antichriſt,</hi> the Counterpart to <hi>Popery,</hi> the <hi>Jeſuits</hi> Bum-Crack, the Shame of the Reformation, and the Scandal of Chriſtianity.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Smith</hi> in <hi>Great Queen-Street,</hi> Bookſeller. 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
